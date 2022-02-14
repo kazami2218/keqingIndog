@@ -3,38 +3,37 @@
 
 ![Wishlist Notifier](/img/features/wish2.png)
 
-### How to use
-- First, if you want to use this feature, you need to enable it in your server.
-- How? If you are an admin, just click the <button class="btn btn-success">Enable this feature</button>
-button
+### Bagaimana cara menggunakannya?
+- Pertama-tama, jika Anda ingin menggunakan Fitur ini, Anda harus mengaktifkannya terlebih dahulu di server Anda.
+- Bagaimana? Jika anda seorang Admin, klik saja <button class="btn btn-success">Enable this feature</button> button
 
-![Wishlist Notifier](/img/features/wish3.png)
+![Wishlist Ping](/img/features/wish3.png)
 
-- After that you can run the command below
+- Setelah itu Anda dapat menjalankan perintah di bawah ini
 
-:::info Basic Info
-Command : `[p]wishwatch` <br />
-To remove your *@Wishlist Ping* role, just click the <button class="btn btn-danger">Disable My Wishlist ping</button> button
+:::info Info Dasar:
+Perintah : `[p]wishwatch` <br />
+Untuk menghapus role *@Wishlist Ping* Anda, klik saja <button class="btn btn-danger">Disable My Wishlist</button> button
 
-Note : You can use this command on any servers
+Catatan : Anda dapat menggunakan perintah ini di server mana pun yang memiliki Bot @Keqing#9910
 :::
 
 ![](/img/features/wish.png ':size=100%')
 
-:::warning Important
-*@Keqing* must have the <code>MANAGE ROLES</code> perms
+:::warning Catatan Penting:
+*@Keqing* wajib memiliki izin <code>MANAGE ROLES</code>
 :::
 
 :::tip
-For premium servers, you can set the `Role requirement` to run the `[p]wishwatch` command. Means you can combine it with `mee6` or other bots. <br/><br/>
-**Command** : `[p]wishaccess <@role | false>`
+Untuk server premium, Anda dapat menyetel `Persyaratan Role` untuk menjalankan perintah `[p]wishwatch`. Yang berarti Anda bisa menggabungkannya dengan `mee6` atau bot lainnya. <br/><br/>
+**Perintah** : `[p]wishaccess <@role | false>`
 :::
 
-#### Random question
-> "How to disable Wishlist Ping?"
+#### Pertanyaan yg sering ditanyakan
+> "Bagaimana cara menonaktifkan Wishlist Ping?"
 >
-> — *Some random owner*
+> — *Beberapa owner memberikan pertanyaan tersebut*
 
-#### Answer
-- Run `[p]wishwatch` again
-- Click the <button class="btn btn-danger">Disable this feature</button> button
+#### Jawaban
+- Jalankan perintah `[p]wishwatch` lagi
+- Dan klik saja <button class="btn btn-danger">Disable this feature</button> button

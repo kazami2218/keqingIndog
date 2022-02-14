@@ -6,8 +6,8 @@
 |Pengujian Frame          							               | ✅ Ya           | ✅ Ya       |
 |Wishlist Ping       									                 | ✅ Ya           | ✅ Ya       |
 |Server Drop Ping   								                   | ✅ Ya           | ✅ Ya       |
-|Kode kartu generator								               	   | ✅ Ya           | ✅ Ya       |
-|Kode kartu filtering  									               | ✅ Ya           | ✅ Ya       |
+|Generator kode kartu								               	   | ✅ Ya           | ✅ Ya       |
+|Filtering kode kartu  									               | ✅ Ya           | ✅ Ya       |
 |(Not) Starboard       								                 | ✅ Ya           | ✅ Ya       |
 |Bits Kalkulator       								                 | ✅ Ya           | ✅ Ya       |
 |Reaksi otomatis untuk Pengujian Frame 			           | ❌ Tidak        | ✅ Ya       |

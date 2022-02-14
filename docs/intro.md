@@ -6,8 +6,8 @@ import Admonition from '@theme/Admonition';
 <Admonition type="info" icon="👋" title="INTRODUCTION">
 <p>
 Nama Bot          : <b>Keqing Bot</b><br />
-Versi Bot         : *v6.3.0*<br />
-Pengembang        : *@Dei#6089*<br />
+Versi Bot         : v6.3.0<br />
+Pengembang        : @Dei#6089<br />
 Server Dukungan   : <a href="https://discord.gg/keqingbot">[Keqing [Bot] Mains]</a><br />
 Prefix            : <code>a</code><br />
 Perpustakaan      : <code>discord.js</code>, <code>mongoose</code>, <code>mathjs</code>, <code>canvas</code>, <code>express</code><br />
@@ -67,7 +67,7 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Keqing bot is a utility bot made to help karuta players to calculate their cards effort & comes w/ built-in frame tester
 
 ## Getting Started
 

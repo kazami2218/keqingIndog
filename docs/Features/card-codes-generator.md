@@ -1,7 +1,7 @@
-# Kode kartu generator
+# Generator kode kartu
 ---
 
-![Kode kartu generator](/img/features/codes.png)
+![Generator kode kartu](/img/features/codes.png)
 
 ### Bagaimana cara menggunakannya?
 - Jalankan perintah `kc`
@@ -14,7 +14,7 @@ Untuk non-premium server, anda perlu menambahkan reaksi 📝 secara manual.
 ---
 ## Kode kartu filtering
 
-![Kode kartu filtering](/img/features/filter.png)
+![Filtering kode kartu](/img/features/filter.png)
 
 ### Bagaimana cara menggunakannya?
 - Jalankan perintah `kc`

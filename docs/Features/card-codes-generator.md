@@ -4,11 +4,11 @@
 ![Card codes generator](/img/features/codes.png)
 
 ### How to use
-- Run the `kc` command
-- React with 📝 to use this feature.​​
+- Jalankan perintah `kc`
+- Dan tambahkan reaksi 📝 untuk menggunakan fitur ini.​​
 
 :::warning
-For non-premium servers, you need to add the 📝 reaction manually.
+Untuk non-premium server, anda perlu menambahkan reaksi 📝 secara manual.
 :::
 
 ---
@@ -17,7 +17,7 @@ For non-premium servers, you need to add the 📝 reaction manually.
 ![Card codes generator](/img/features/filter.png)
 
 ### How to use
-- Run the `kc` command
-- React with 🔍 to use this feature.​​
+- Jalankan perintah `kc`
+- Dan tambahkan reaksi 🔍 untuk menggunakan fitur ini.​​
 
-You can also filter the codes that you want to copy, get all the codes, get all untagged codes, or get under 100 wish card codes.
+Anda juga dapat memfilter kode yang ingin Anda salin, mendapatkan semua kode, mendapatkan semua kode yang tidak ditag, atau menyalin kode kartu yang dibawah 100 wishlist.

@@ -1,6 +1,6 @@
 ----
 
-| Kunci Fitur                                          | Normal          | Premium      |
+| Fitur Utama                                          | Normal          | Premium      |
 |------------------------------------------------------|-----------------|--------------|
 |Kalkulator Effort    							                   | ✅ Ya           | ✅ Ya       |
 |Pengujian Frame          							               | ✅ Ya           | ✅ Ya       |

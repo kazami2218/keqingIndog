@@ -9,7 +9,7 @@
 |Generator kode kartu								               	   | ✅ Ya           | ✅ Ya       |
 |Filtering kode kartu  									               | ✅ Ya           | ✅ Ya       |
 |(Not) Starboard       								                 | ✅ Ya           | ✅ Ya       |
-|Bits Kalkulator       								                 | ✅ Ya           | ✅ Ya       |
+|Kalkulator Bits       								                 | ✅ Ya           | ✅ Ya       |
 |Reaksi otomatis untuk Pengujian Frame 			           | ❌ Tidak        | ✅ Ya       |
 |Reaksi otomatis untuk Kode kartu generator            | ❌ Tidak        | ✅ Ya       |
 |Reaksi otomatis untuk Kode kartu filtering            | ❌ Tidak        | ✅ Ya       |

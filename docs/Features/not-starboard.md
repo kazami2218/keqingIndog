@@ -3,17 +3,17 @@
 
 ![(Not) Starboard](/img/features/starboard.png)
 
-### How To use
+### Bagaimana cara menggunakannya?
 
-- First, if you are an Admin please run this command to set the log channel.
+- Pertama-tama, jika Anda seorang Admin, jalankan perintah ini untuk mengatur channel log.
 
-> Command: `[p]setlogchannel <#channel>`
+> Perintah: `[p]setlogchannel <#channel>`
 > 
-> Example: `asetlogchannel #proe-drops`
+> Contohnya: `asetlogchannel #proe-drops`
 
-- `Reply` the drop message with `[p]star` command
+- Dan `Reply` pesan drop tersebut dan jalankan perintah `[p]star`
 
 ![](/img/features/star2.png)
 
-- Done 
+- Selesai 
 ![](/img/features/stardone.png)

@@ -1,7 +1,7 @@
-# Wishlist Notifier
+# Wishlist Ping
 ----
 
-![Wishlist Notifier](/img/features/wish2.png)
+![Wishlist Ping](/img/features/wish2.png)
 
 ### Bagaimana cara menggunakannya?
 - Pertama-tama, jika Anda ingin menggunakan Fitur ini, Anda harus mengaktifkannya terlebih dahulu di server Anda.

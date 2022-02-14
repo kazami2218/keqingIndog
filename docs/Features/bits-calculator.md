@@ -1,12 +1,12 @@
-# Bits Calculator
+# Bits Kalkulator
 ----
 
-![Bits Calculator](/img/features/bits.png)
+![Bits Kalkulator](/img/features/bits.png)
 
-### How to use
-- Run the `kbi` command
-- React with ➕.​​
+### Bagaimana cara menggunakannya?
+- Jalankan perintah `kbi`
+- Dan tambahkan reaksi ➕.​​
 
 :::warning
-For non-premium servers, you need to add the ➕ reaction manually.
+Untuk non-premium server, anda harus menambahkan reaksi ➕ secara manual.
 :::

@@ -33,5 +33,5 @@ Catatan: Anda dapat menggunakan perintah ini di server mana pun yang memiliki Bo
 > — *Beberapa owner memberikan pertanyaan tersebut*
 
 #### Jawaban
-- Jalankan perintah `[p]dropwath` lagi
+- Jalankan perintah `[p]dropwatch` lagi
 - Dan klik saja <button class="btn btn-danger">Disable this feature</button> button

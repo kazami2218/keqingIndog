@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[316],{3057:function(s){s.exports=JSON.parse('{"allTagsPath":"/keqingDocs/blog/tags","slug":"/keqingDocs/blog/tags/hola","name":"hola","count":1,"permalink":"/keqingDocs/blog/tags/hola"}')}}]);

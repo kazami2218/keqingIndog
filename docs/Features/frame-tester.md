@@ -1,20 +1,20 @@
-# Frame Tester
+# Pengujian Frame
 ----
 
-![Frame Tester](https://cdn.discordapp.com/attachments/867945490786959382/942425919535071282/frametestermanually.gif ':size=100%')
+![Pengujian Frame](https://cdn.discordapp.com/attachments/867945490786959382/942425919535071282/frametestermanually.gif ':size=100%')
 
-We also provide built-in Frame tester.
+Kami juga menyediakan penguji Frame bawaan.
 
-### How to use
-- First, `klu` a character
-- Select it's Edition
-- React with 🖌️.
+### Bagaimana cara menggunakannya?
+- Pertama-tama, `klu` nama karakter
+- Pilih Edisi yang anda inginkan
+- Dan tambahkan reaksi 🖌️.
 
 :::tip
-Run `[p]frames` to see available frames
+Jalankan `[p]frames` untuk melihat Frame yang tersedia
 :::
 
-:::danger Important
-- For non-premium servers, you need to react 🖌️ **manually**.
-- *Keqing* doesn't support dyes / mophs testing
+:::danger Catatan Penting
+- Untuk non-premium server, anda perlu menambahkan reaksi 🖌️ **secara manual**.
+- *Keqing* tidak mendukung pengujian dye atau morphs
 :::

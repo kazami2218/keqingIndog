@@ -5,48 +5,48 @@ import Admonition from '@theme/Admonition';
 
 <Admonition type="info" icon="👋" title="INTRODUCTION">
 <p>
-Bot Name          : <b>Keqing Bot</b><br />
-Bot Version       : *v6.3.0*<br />
-Developer         : *@Dei#6089*<br />
-Support Server    : <a href="https://discord.gg/keqingbot">[Keqing [Bot] Mains]</a><br />
+Nama Bot          : <b>Keqing Bot</b><br />
+Versi Bot         : *v6.3.0*<br />
+Pengembang        : *@Dei#6089*<br />
+Server Dukungan   : <a href="https://discord.gg/keqingbot">[Keqing [Bot] Mains]</a><br />
 Prefix            : <code>a</code><br />
-Libraries         : <code>discord.js</code>, <code>mongoose</code>, <code>mathjs</code>, <code>canvas</code>, <code>express</code><br />
-Used by           : 6,09 million people in more than 21.000+ servers
+Perpustakaan      : <code>discord.js</code>, <code>mongoose</code>, <code>mathjs</code>, <code>canvas</code>, <code>express</code><br />
+Digunakan oleh    : 6,09 million people in more than 21.000+ servers
 </p>
 </Admonition>
 
-First of all, Thank you so much for using my bot. **You are awesome**!
+Pertama-tama, Terima kasih banyak karena telah menggunakan bot saya.
 
-This documentation will help you, step by step, regarding each of Keqing's features. Please go through carefully to understand how this bot works.
+Dokumentasi ini akan membantu Anda, langkah demi langkah, mengenai setiap Fitur Keqing. Silakan baca dengan cermat untuk memahami cara kerja bot ini.
 
 :::tip
-Join [Keqing [Bot] Mains](https://discord.gg/keqingbot) if you need help with Keqing's usage.
+Join [Keqing [Bot] Mains](https://discord.gg/keqingbot) jika Anda memerlukan bantuan cara menggunakan Keqing.
 :::
 
-## Getting Started
+## Mulai
 
-### Invite the bot
-First invite the bot if you haven't. [Click here](https://discord.com/oauth2/authorize?client_id=772642704257187840&permissions=2416307264&scope=bot%20applications.commands) to invite
+### Mengundang Bot
+Pertama-tama Undang bot dulu kalau belum. [Klik disini](https://discord.com/oauth2/authorize?client_id=772642704257187840&permissions=2416307264&scope=bot%20applications.commands) untuk Mengundang bot
 
-### How do I read this wiki?
+### Bagaimana cara membaca wiki ini?
 
 :::info
 Default Prefix : `a` <br />
-You can change it by running the `asetprefix <new prefix>` command
+Anda dapat mengganti prefixnya dengan menjalankan perintah `asetprefix <prefix baru>`
 :::
 
 :::warning
-Do not literally type out `< > [ ] |` etc
+Jangan mengetik secara harfiah `< > [ ] |` dll
 :::
 
 :::info Documentation Syntax
 `[p]` - prefix<br />
-`[ ]` - optional parameter<br />
-`< >` - required parameter<br />
-`<thing1 | thing2>` - select one of the given options
+`[ ]` - parameter opsional<br />
+`< >` - parameter yang diperlukan<br />
+`<hal1 | hal2>` - pilih salah satu opsi yang diberikan
 :::
-### How to setup
-In order to use this bot, you must grants these permissions to *@Keqing*
+### Bagaimana cara menggunakan Keqing?
+Untuk menggunakan bot ini, Anda harus memberikan izin berikut kepada *@Keqing*
 
 - Read Text Channels
 - Send Messages
@@ -59,7 +59,7 @@ In order to use this bot, you must grants these permissions to *@Keqing*
 - Add Reactions
 
 :::tip
-For non-premium servers, It's better to give your server members the **`Add Reactions`** permisssion to make our features works.
+Untuk server non-premium, Lebih baik berikan izin **`Tambah Reaksi`** kepada member server Anda agar fitur Dapat berfungsi.
 :::
 <!-- ---
 sidebar_position: 1

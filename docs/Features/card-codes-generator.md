@@ -20,4 +20,4 @@ Untuk non-premium server, anda perlu menambahkan reaksi 📝 secara manual.
 - Jalankan perintah `kc`
 - Dan tambahkan reaksi 🔍 untuk menggunakan fitur ini.​​
 
-Anda juga dapat memfilter kode yang ingin Anda salin, mendapatkan semua kode, mendapatkan semua kode yang tidak ditag, atau menyalin kode kartu yang dibawah 100 wishlist.
+Anda juga dapat memfilter kode yang ingin Anda salin, menyalin semua kode, menyalin semua kode yang tidak ditag, atau menyalin kode kartu yang dibawah 100 wishlist.

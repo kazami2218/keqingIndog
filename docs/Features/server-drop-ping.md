@@ -4,34 +4,34 @@
 ![](/img/features/dropwatch.png ':size=100%')
 ![Server Drop](/img/features/drop.png ':size=100%')
 
-Basically same as the [Wishlist Notifier](./wishlist-notifier)
+Pada dasarnya sama dengan [Wishlist Ping](./wishlist-notifier)
 
-### How to use
+### Bagaimana cara menggunakannya?
 
-- First, if you want to use this feature, you need to enable it in your server.
-- How? If you are an admin, just click the <button class="btn btn-success">Enable this feature</button> button
+- Pertama-tama, jika Anda ingin menggunakan Fitur ini, Anda harus mengaktifkannya terlebih dahulu di server Anda.
+- Bagaimana? Jika anda seorang Admin, klik saja <button class="btn btn-success">Enable this feature</button> button
 
 ![Server Drop](/img/features/drop2.png ':size=100%')
 
-- After that you can run the command below
+- Setelah itu Anda dapat menjalankan perintah di bawah ini
 
-:::info Basic Info:
-Command : `[p]dropwatch` <br />
-To remove your *@Server Drop Ping* role, just click the <button class="btn btn-danger">Disable My Ping</button> button
+:::info Info Dasar:
+Perintah : `[p]dropwatch` <br />
+Untuk menghapus role *@Server Drop Ping* Anda, klik saja <button class="btn btn-danger">Disable My Ping</button> button
 
-Note : You can use this command on any servers
+Catatan: Anda dapat menggunakan perintah ini di server mana pun yang memiliki Bot @Keqing#9910
 :::
 
-:::warning Important
-*@Keqing* must have the <code>MANAGE ROLES</code> perms
+:::warning Catatan Penting:
+*@Keqing* wajib memiliki izin <code>MANAGE ROLES</code>
 :::
 
 
-#### Random question
-> "How to disable Server drop ping?"
+#### Pertanyaan yg sering ditanyakan
+> "Bagaimana cara menonaktifkan Server drop ping?"
 >
-> — *Some random owner*
+> — *Beberapa owner memberikan pertanyaan tersebut*
 
-#### Answer
-- Run `[p]dropwath` again
-- Click the <button class="btn btn-danger">Disable this feature</button> button
+#### Jawaban
+- Jalankan perintah `[p]dropwath` lagi
+- Dan klik saja <button class="btn btn-danger">Disable this feature</button> button

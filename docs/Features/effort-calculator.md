@@ -2,31 +2,31 @@
 ----
 ![Effort Calculator](/img/features/effort.png ':size=100%')
 
-### Auto-Response
-- Create a channel with `keqing`, `effort` or `management` on the channel name
+### Respon Otomatis
+- Buat channel dan beri nama `keqing`, `effort`, `management` pada nama channel
 
-:::info Example :
+:::info Contohnya :
 *#effort-calculator* <br />
 *#keqing-bot* <br /> 
 *#karuta-management* <br />
-..... etc 
+..... dll 
 :::
 
-- Make sure *@Keqing* has proper permissions
-- Now you can type `kwi [your card code]` on the channel the you just set it up.
+- Pastikan *@Keqing* memiliki izin yang tepat
+- Sekarang Anda dapat mengetik `kwi [kode kartu Anda]` pada channel yang baru saja Anda buat.
 
-### Reaction Trigger
-- Make sure *@Keqing* has proper permissions
-- Type `kwi [your card code]` on a channel.
-- Now react with 🔢
+### Pemicu Reaksi
+- Pastikan *@Keqing* memiliki izin yang tepat
+- Ketik `kwi [kode kartu Anda]` di channel.
+- Dan tambahkan reaksi 🔢
 
-:::warning Important notes
- If your card's condition is `mint` the calculation should be **mostly accurate**, However if your cards is not mint yet, the calculations are **less accurate**.
+:::warning Catatan Penting
+ Jika kondisi kartu Anda `mint` perhitungan harusnya **sebagian besar akurat**, Namun jika kartu Anda belum mint, perhitungannya **kurang akurat**.
 :::
 
-:::info Other calculation info
-- **Vanity** = What is vanity? The lower card's print number relative to amount printed, the more this effort modifier will increase. Thus, card will gain in this modifier `as time passes`.
-- **Max Vanity** = a condition where your card is S grade or reaches Maxed A grade Vanity. High printed cards **most likely will never** reaches this condition.
-- **X Toughness** = You can gain it from `dating system`.
-- **Max Possible Effort** = (Current Effort (Mystic + Framed)) + (S Vanity / Maxed A Vanity) + (S Toughness) + Additional Wellness. If your card is high printed, **Do not** look at the `Max A. vanity + S. tough.` stats.
+:::info Info kalkulasi lainnya
+- **Vanity** = Apa itu vanity? Semakin rendah nomor cetak kartu relatif terhadap jumlah yang dicetak, semakin banyak pengubah effort ini akan meningkat. Dengan demikian, kartu akan diperoleh di pengubah ini `sejalan dengan waktu berlalu`.
+- **Max Vanity** = kondisi dimana kartu Anda bernilai S atau mencapai titik maksimal A vanity. Kartu dengan cetakan tinggi **kemungkinan besar tidak akan pernah** mencapai kondisi ini.
+- **X Toughness** = Anda dapat memperolehnya dari `sistem dating`.
+- **Max Possible Effort** = (Effort Saat Ini (Mystic + Framed)) + (S Vanity / Maxed A Vanity) + (S Toughness) + Wellness Tambahan. Jika kartu Anda dicetak tinggi, **Jangan** melihat statistik `Maksimal A. vanity + S. tough.`.
 :::

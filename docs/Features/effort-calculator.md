@@ -26,7 +26,7 @@
 
 :::info Info kalkulasi lainnya
 - **Vanity** = Apa itu vanity? Semakin rendah nomor cetak kartu relatif terhadap jumlah yang dicetak, semakin banyak pengubah effort ini akan meningkat. Dengan demikian, kartu akan diperoleh di pengubah ini `sejalan dengan waktu berlalu`.
-- **Max Vanity** = kondisi dimana kartu Anda bernilai S atau mencapai titik maksimal A vanity. Kartu dengan cetakan tinggi **kemungkinan besar tidak akan pernah** mencapai kondisi ini.
+- **Maks Vanity** = kondisi dimana kartu Anda bernilai S atau mencapai titik maksimal A vanity. Kartu dengan cetakan tinggi **kemungkinan besar tidak akan pernah** mencapai kondisi ini.
 - **X Toughness** = Anda dapat memperolehnya dari `sistem dating`.
-- **Max Possible Effort** = (Effort Saat Ini (Mystic + Framed)) + (S Vanity / Maxed A Vanity) + (S Toughness) + Wellness Tambahan. Jika kartu Anda dicetak tinggi, **Jangan** melihat statistik `Maksimal A. vanity + S. tough.`.
+- **Maks Kemungkinan Effort** = (Effort Saat Ini (Mystic + Framed)) + (S Vanity / Maxed A Vanity) + (S Toughness) + Wellness Tambahan. Jika kartu Anda dicetak tinggi, **Jangan** melihat statistik `Maks A. vanity + S. tough.`.
 :::

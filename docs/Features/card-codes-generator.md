@@ -1,9 +1,9 @@
-# Card Codes Generator
+# Kode kartu generator
 ---
 
-![Card codes generator](/img/features/codes.png)
+![Kode kartu generator](/img/features/codes.png)
 
-### How to use
+### Bagaimana cara menggunakannya?
 - Jalankan perintah `kc`
 - Dan tambahkan reaksi 📝 untuk menggunakan fitur ini.​​
 
@@ -12,11 +12,11 @@ Untuk non-premium server, anda perlu menambahkan reaksi 📝 secara manual.
 :::
 
 ---
-## Code Filtering
+## Kode kartu filtering
 
-![Card codes generator](/img/features/filter.png)
+![Kode kartu filtering](/img/features/filter.png)
 
-### How to use
+### Bagaimana cara menggunakannya?
 - Jalankan perintah `kc`
 - Dan tambahkan reaksi 🔍 untuk menggunakan fitur ini.​​
 

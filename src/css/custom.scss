@@ -1,0 +1,157 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #5865f2;
+  --ifm-color-primary-dark: #3949f0;
+  --ifm-color-primary-darker: #2a3bee;
+  --ifm-color-primary-darkest: #1121d6;
+  --ifm-color-primary-light: #7781f4;
+  --ifm-color-primary-lighter: #868ff6;
+  --ifm-color-primary-lightest: #b4baf9;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+html[data-theme='dark'] {
+  --ifm-color-primary: #5c68f0;
+  --ifm-color-primary-dark: #3e4ced;
+  --ifm-color-primary-darker: #2e3eec;
+  --ifm-color-primary-darkest: #1423d5;
+  --ifm-color-primary-light: #7a84f3;
+  --ifm-color-primary-lighter: #8a92f4;
+  --ifm-color-primary-lightest: #b7bcf8;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme='dark'] {
+	.docusaurus-highlight-code-line {
+		background-color: rgba(0, 0, 0, 0.3);
+	}
+
+	em {
+		cursor: pointer;
+		font-weight: bold;
+		background: #3b406f !important;
+		color: #c8cae9 !important;
+		font-style: normal;
+		padding: 0 2px;
+		border-radius: 3px;
+		font-weight: 600;
+	}
+
+	main {
+		background: #36393f;
+	}
+
+	.menu {
+		background: #2f3136;
+	}
+
+	.footer--dark {
+		background: #292b2f;
+	}
+
+	hr {
+		border-color: #3f4247;
+	}
+
+	code {
+		background: #202225;
+	}
+
+	article a {
+		color: #07a3e0;
+	}
+
+	.admonition {
+		background: #2f3136;
+		color: #bec0c2;
+	}
+
+	.menu__link {
+		color: #8e9297
+	}
+
+	.menu__link--active {
+		background: #393c42;
+		color: #e4e4e5;
+	}
+}
+
+.menu {
+	background: #f2f3f5;
+	.menu__link {
+		color: #6a7480;
+	}
+	.menu__link--active {
+		background: #d4d7dd;
+		color: #111112;
+	}
+}
+
+
+.btn {
+	color: #fff;
+	padding: 5px 1rem;
+	border-radius: 5px;
+	background: #5865F2;
+	outline: none;
+	border: none;
+	cursor: pointer;
+	&.btn-danger {
+		background: #ed4245;
+		&:hover {
+			background: darken($color: #ed4245, $amount: 10);
+		}
+	}
+	&.btn-success {
+		background: #3ba55d;
+		&:hover {
+			background: darken($color: #3ba55d, $amount: 10);
+		}
+	}
+}
+
+em {
+	cursor: pointer;
+	background: #dbdef5;
+	color: #6873e0;
+	font-style: normal;
+	padding: 0 2px;
+	border-radius: 3px;
+	font-weight: 600;
+}
+
+.admonition {
+	background: #f2f3f5;
+}
+
+code {
+	background: #dfe0e2;
+	border: none;
+}
+
+li.menu__list-item:not(.theme-doc-sidebar-item-category) a {
+	&::before {
+		content: "# ";
+		font-weight: bold;
+		margin-top: 15px;
+	}
+	line-height: 1.5rem;
+	text-align: left;
+	display: block;
+}
+
+.theme-doc-sidebar-item-link-level-2 {
+	margin-left: -1rem;
+}

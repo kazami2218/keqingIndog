@@ -19,7 +19,7 @@ Pada dasarnya sama dengan [Wishlist Ping](./wishlist-notifier)
 Perintah : `[p]dropwatch` <br />
 Untuk menghapus role *@Server Drop Ping* Anda, klik saja <button class="btn btn-danger">Disable My Ping</button> button
 
-Catatan: Anda dapat menggunakan perintah ini di server mana pun yang memiliki Bot @Keqing#9910
+Catatan : Anda dapat menggunakan perintah ini di server mana pun yang memiliki Bot @Keqing#9910
 :::
 
 :::warning Catatan Penting:

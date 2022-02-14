@@ -9,7 +9,7 @@ Pengembang        : @Dei#6089<br />
 Server Dukungan   : <a href="https://discord.gg/keqingbot">[Keqing [Bot] Mains]</a><br />
 Prefix            : <code>a</code><br />
 Perpustakaan      : <code>discord.js</code>, <code>mongoose</code>, <code>mathjs</code>, <code>canvas</code>, <code>express</code><br />
-Digunakan oleh    : 6,09 million people in more than 21.000+ servers
+Digunakan oleh    : 6,09 juta orang lebih dari 21.000+ server
 </p>
 </Admonition>
 
